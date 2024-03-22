@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T01:08:17.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.0.7" etag="1J0QC7CoroprewWyYgyC" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T01:24:55.644Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="uBx8Urnj4xJF8VMDF7iL" version="24.0.7" type="github">
   <diagram name="Página-1" id="OIoEah2QFk43jvdREr7H">
-    <mxGraphModel>
+    <mxGraphModel dx="414" dy="255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MO74tDXcQZlPEkGTU9Vb-3" value="Escuela" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MO74tDXcQZlPEkGTU9Vb-5" value="Laboratorios" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MO74tDXcQZlPEkGTU9Vb-6" value="&lt;span class=&quot;selectable-text copyable-text&quot;&gt;salones&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MO74tDXcQZlPEkGTU9Vb-7" value="Cafetería" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MO74tDXcQZlPEkGTU9Vb-9" value="Baños" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MO74tDXcQZlPEkGTU9Vb-10" value="Teléfono" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MO74tDXcQZlPEkGTU9Vb-11" value="ID_escuela" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MO74tDXcQZlPEkGTU9Vb-12" value="&lt;span style=&quot;text-decoration-line: underline;&quot;&gt;IDENTIFICACI_&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="430" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
